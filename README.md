@@ -1,4 +1,3 @@
-# Campus-lost-and-found
 # 🎓 CampusFind – Campus Lost & Found Web Application
 
 A modern, responsive, and student-first web application designed for university and college campuses to bridge the gap between students who lose items and the honest finders who discover them.
