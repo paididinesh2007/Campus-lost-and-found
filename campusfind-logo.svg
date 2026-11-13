@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#14532d" />
+      <stop offset="100%" stop-color="#16a34a" />
+    </linearGradient>
+  </defs>
+  <rect width="200" height="200" rx="40" fill="url(#grad)" />
+  <!-- Graduation Cap -->
+  <path d="M100 45 L165 75 L100 105 L35 75 Z" fill="#ffffff" />
+  <path d="M60 90 L60 125 C60 145 140 145 140 125 L140 90" fill="none" stroke="#ffffff" stroke-width="8" stroke-linecap="round" />
+  <!-- Tassel -->
+  <path d="M150 78 L165 110 L160 125" fill="none" stroke="#fcd34d" stroke-width="5" stroke-linecap="round" />
+  <!-- Search Pin Overlay -->
+  <circle cx="135" cy="135" r="28" fill="#ffffff" filter="drop-shadow(0 4px 6px rgba(0,0,0,0.2))" />
+  <circle cx="135" cy="135" r="14" fill="#15803d" />
+  <circle cx="135" cy="135" r="6" fill="#ffffff" />
+</svg>
